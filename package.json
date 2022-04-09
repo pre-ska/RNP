@@ -31,7 +31,7 @@
     "immutable": "^4.0.0-rc.12",
     "jsonwebtoken": "^8.3.0",
     "jwks-rsa": "^1.8.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.20",
     "next": "^7.0.2",
     "next-routes": "^1.4.2",
